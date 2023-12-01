@@ -1,2 +1,2 @@
 # Java-Registration-Form
-Java Registration form through awt package
+This is a registration form written in Java for practice.
